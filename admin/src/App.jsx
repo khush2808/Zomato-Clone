@@ -1,4 +1,3 @@
-import React from 'react'
 import Navbar from './components/navbar/Navbar'
 import Sidebar from './components/sidebar/Sidebar'
 import { Route, Routes } from 'react-router-dom'
@@ -10,7 +9,7 @@ import "react-toastify/dist/ReactToastify.css";
 
 const App = () => {
 
-  const url = "https://zomato-clone-three-rho.vercel.app/";
+  const url = "https://food-delivery-backend-nhg5.onrender.com";
 
 
   return (
